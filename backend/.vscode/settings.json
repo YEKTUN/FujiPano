@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/854d1f30-2a86-4e6a-9110-43a4b6ab7dec/resourceGroups/appsvc_linux_swedencentral/providers/Microsoft.Web/sites/pano-website",
+  "appService.deploySubpath": "."
+}
